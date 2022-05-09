@@ -25,7 +25,7 @@ a{
     position: absolute;
 }
 .header_top{
-    background-image: url('/IMAGE/header/bg.png');
+    background-image: url(../img/header/bg.png);
     height: 67px;
     padding: 10px 10px 0px 10px;
     text-align: right;
